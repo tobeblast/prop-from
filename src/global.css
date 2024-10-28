@@ -30,12 +30,6 @@ input {
   border: 1px solid;
 }
 
-@media (max-width: 1440px) {
-  from {
-    height: 46dvh;
-  }
-}
-
 @media (max-width: 1024px) {
   from {
     height: 55dvh;
